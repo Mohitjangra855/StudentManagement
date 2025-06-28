@@ -2,6 +2,11 @@
 
 A simple web app to manage students' data including names, grades, attendance, and more.
 
+# Lanuguages
+1. PHP
+2. LARAVEL
+3. MYSQL
+
 ## Installation
 
 1. Clone the repo
